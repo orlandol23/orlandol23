@@ -3,7 +3,7 @@
 **Senior Software Engineer** · React / TypeScript · Java · AI-augmented development
 Natal, Brazil (UTC-3) · Remote · [LinkedIn](https://linkedin.com/in/orlando-fernandes-de-lima-e-silva-a37a69140)
 
-5+ years building web applications, mostly React and TypeScript, with a full-stack foundation in Java/Spring. I care about the parts that don't show up in a screenshot: profiling before optimizing, tests that actually catch things, and READMEs that don't promise more than the code delivers.
+6+ years building web applications, mostly React and TypeScript, with a full-stack foundation in Java/Spring. I care about the parts that don't show up in a screenshot: profiling before optimizing, tests that actually catch things, and READMEs that don't promise more than the code delivers.
 
 I work AI-augmented every day (Claude Code as a primary tool, multi-agent review as a standard quality gate), and I build on-chain on the side.
 
