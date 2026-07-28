@@ -35,7 +35,7 @@ A tokenized vault inheriting OpenZeppelin 5.0.2, with reentrancy guards, a depos
 
 ### Working with
 
-`TypeScript` `JavaScript` `React` `Next.js` `React Native` `Node.js` `Java` `Spring Boot`
+`TypeScript` `JavaScript` `React` `Next.js` `Tauri` `Node.js` `Java` `Spring Boot`
 `Zustand` `Tailwind` `Radix/shadcn` `Jest` `Vitest` `Testing Library` `Cypress` `Playwright`
 `PostgreSQL` `Drizzle` `REST` `tRPC` `Vite` `pnpm` `AWS` `Solidity` `Hardhat` `viem`
 `Claude Code` `MCP` `multi-agent review` `LLM APIs`
